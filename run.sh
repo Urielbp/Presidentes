@@ -1,0 +1,1 @@
+java -cp jade.Boot;./lib/commons-codec-1.10.jar;./lib/jade.jar -gui Rajoy:es.usal.pa.AgentePresidente
